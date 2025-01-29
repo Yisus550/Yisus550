@@ -91,7 +91,7 @@
   <img width="12" />
   <img src="https://static-00.iconduck.com/assets.00/appium-icon-511x512-rm65wi9n.png" height="30" alt="appium logo"  />
   <img width="12" />
-  <img src="https://media.licdn.com/dms/image/v2/C4D0BAQHR4FRsX8orMA/company-logo_200_200/company-logo_200_200/0/1632954819046?e=2147483647&v=beta&t=m7V3m3luaOF8am-LciW1FfAajg6l2mfk-T0DAr_KuYM" height="30" alt="playwright logo"  />
+  <img src="https://images.apifyusercontent.com/y9cT4Cu6tzP71iYinXs7PurRxIBDU0BOaao6-LwW4DY/rs:fill:250:250/cb:1/aHR0cHM6Ly9hcGlmeS1pbWFnZS11cGxvYWRzLXByb2QuczMuYW1hem9uYXdzLmNvbS9NcFJibk5tVkFvajVSQzFNYS9oRnp5VHUycDN5elRLUDZyZC1wbGF5d3JpZ2h0LnBuZw.webp" height="30" alt="playwright logo"  />
   
 </div>
 
