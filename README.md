@@ -91,7 +91,7 @@
   <img width="12" />
   <img src="https://static-00.iconduck.com/assets.00/appium-icon-511x512-rm65wi9n.png" height="30" alt="appium logo"  />
   <img width="12" />
-  <img src="https://images.seeklogo.com/logo-png/43/1/playwright-logo-png_seeklogo-435674.png?v=1957906606398712352" height="30" alt="playwright logo"  />
+  <img src="[https://images.seeklogo.com/logo-png/43/1/playwright-logo-png_seeklogo-435674.png?v=1957906606398712352](https://images.seeklogo.com/logo-png/43/2/playwright-logo-png_seeklogo-435674.png)" height="30" alt="playwright logo"  />
   
 </div>
 
