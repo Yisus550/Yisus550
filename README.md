@@ -86,6 +86,13 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo"  />
+  <img width="12" />
+  <img src="https://static-00.iconduck.com/assets.00/cypress-icon-512x511-29zvfts6.png" height="30" alt="cypress logo"  />
+  <img width="12" />
+  <img src="https://static-00.iconduck.com/assets.00/appium-icon-511x512-rm65wi9n.png" height="30" alt="appium logo"  />
+  <img width="12" />
+  <img src="https://images.seeklogo.com/logo-png/43/1/playwright-logo-png_seeklogo-435674.png" height="30" alt="playwright logo"  />
+  
 </div>
 
 ###
