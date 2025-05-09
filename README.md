@@ -121,7 +121,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
-  <img src="https://skillicons.dev/icons?i=notion" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="notion logo" />
+  <img src="https://cdn.worldvectorlogo.com/logos/asana-1.svg" />
 </div>
 
 ###
